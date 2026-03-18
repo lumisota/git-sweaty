@@ -11711,5 +11711,18 @@
     "start_date_local": "2026-03-15T13:01:53Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-17",
+    "distance": 8235.8,
+    "elevation_gain": 67.3,
+    "id": "17758618404",
+    "moving_time": 2637.0,
+    "name": "allsorts chalmers brae + pier reps",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-17T18:26:49Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
