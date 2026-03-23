@@ -11763,5 +11763,31 @@
     "start_date_local": "2026-03-22T11:02:24Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-22",
+    "distance": 6196.5,
+    "elevation_gain": 39.2,
+    "id": "17821732133",
+    "moving_time": 1732.0,
+    "name": "pittenweem \u2192 anstruther",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-22T20:55:46Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-22",
+    "distance": 4265.5,
+    "elevation_gain": 28.8,
+    "id": "17822014445",
+    "moving_time": 1229.0,
+    "name": "anstruther \u2192 pittenweem",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-22T21:51:07Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
