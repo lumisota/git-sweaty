@@ -11789,5 +11789,18 @@
     "start_date_local": "2026-03-22T21:51:07Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-24",
+    "distance": 9743.6,
+    "elevation_gain": 62.6,
+    "id": "17845322200",
+    "moving_time": 3172.0,
+    "name": "allsorts saint adrian\u2019s place/shore road reps",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-24T18:18:18Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
