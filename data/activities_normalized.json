@@ -11802,5 +11802,18 @@
     "start_date_local": "2026-03-24T18:18:18Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-25",
+    "distance": 6468.6,
+    "elevation_gain": 41.9,
+    "id": "17857484564",
+    "moving_time": 1458.0,
+    "name": "haddies mars bar",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-25T19:11:21Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
