@@ -11815,5 +11815,18 @@
     "start_date_local": "2026-03-25T19:11:21Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-28",
+    "distance": 8133.1,
+    "elevation_gain": 81.9,
+    "id": "17888721756",
+    "moving_time": 2741.0,
+    "name": "dalry road/sorbie road loop",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-28T12:54:08Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
