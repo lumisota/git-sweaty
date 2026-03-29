@@ -11828,5 +11828,18 @@
     "start_date_local": "2026-03-28T12:54:08Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-29",
+    "distance": 16152.7,
+    "elevation_gain": 48.9,
+    "id": "17898513658",
+    "moving_time": 3882.0,
+    "name": "tom scott memorial road races",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-29T10:00:23Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
