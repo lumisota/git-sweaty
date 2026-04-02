@@ -11854,5 +11854,18 @@
     "start_date_local": "2026-03-31T18:40:07Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-01",
+    "distance": 8944.9,
+    "elevation_gain": 91.6,
+    "id": "17941563670",
+    "moving_time": 2844.0,
+    "name": "haddies silverdyke loops",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-01T18:40:49Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
