@@ -11867,5 +11867,18 @@
     "start_date_local": "2026-04-01T18:40:49Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-03",
+    "distance": 6510.5,
+    "elevation_gain": 9.0,
+    "id": "17965746290",
+    "moving_time": 1536.0,
+    "name": "run4it tentsmuir forest trail run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-03T18:37:22Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
