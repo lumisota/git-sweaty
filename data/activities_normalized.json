@@ -11880,5 +11880,44 @@
     "start_date_local": "2026-04-03T18:37:22Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-04",
+    "distance": 5532.6,
+    "elevation_gain": 13.1,
+    "id": "17979468238",
+    "moving_time": 1485.0,
+    "name": "kilwinning \u2192 saltcoats",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-04T18:12:52Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-04",
+    "distance": 5506.5,
+    "elevation_gain": 42.4,
+    "id": "17979470360",
+    "moving_time": 1453.0,
+    "name": "saltcoats \u2192 kilwinning",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-04T20:05:30Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-05",
+    "distance": 10037.8,
+    "elevation_gain": 82.2,
+    "id": "17987029453",
+    "moving_time": 2537.0,
+    "name": "loop out to stevenston",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-05T12:26:52Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
