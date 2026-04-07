@@ -6425,6 +6425,13 @@
       "subtype": "Run",
       "type": "Run",
       "year": 2026
+    },
+    {
+      "date": "2026-04-07",
+      "hour": 11,
+      "subtype": "Hike",
+      "type": "Hike",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -13839,6 +13846,17 @@
       }
     },
     "2026": {
+      "Hike": {
+        "2026-04-07": {
+          "activity_ids": [
+            "18012999460"
+          ],
+          "count": 1,
+          "distance": 9493.0,
+          "elevation_gain": 298.7,
+          "moving_time": 7150.0
+        }
+      },
       "Run": {
         "2026-01-01": {
           "activity_ids": [
@@ -14397,7 +14415,7 @@
       }
     }
   },
-  "generated_at": "2026-04-06T15:20:20.957063+00:00",
+  "generated_at": "2026-04-07T15:34:06.326860+00:00",
   "other_bucket": "OtherSports",
   "repo": "lumisota/git-sweaty",
   "source": "strava",
