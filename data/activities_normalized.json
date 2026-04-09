@@ -11945,5 +11945,18 @@
     "start_date_local": "2026-04-07T11:27:24Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-04-08",
+    "distance": 10518.7,
+    "elevation_gain": 18.9,
+    "id": "18031707582",
+    "moving_time": 3159.0,
+    "name": "haddies easter grangemuir farm reps",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-08T18:35:06Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
