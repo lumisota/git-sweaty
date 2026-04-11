@@ -11958,5 +11958,18 @@
     "start_date_local": "2026-04-08T18:35:06Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-11",
+    "distance": 18473.4,
+    "elevation_gain": 131.5,
+    "id": "18063995733",
+    "moving_time": 6751.0,
+    "name": "carnbee/arncroach/balcaskie estate",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-11T08:51:59Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
