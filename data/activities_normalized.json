@@ -11984,5 +11984,31 @@
     "start_date_local": "2026-04-12T17:14:55Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-14",
+    "distance": 10775.0,
+    "elevation_gain": 58.8,
+    "id": "18109197257",
+    "moving_time": 3433.0,
+    "name": "allsorts milton mill/dreelside loops",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-14T18:21:35Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-14",
+    "distance": 2704.4,
+    "elevation_gain": 15.9,
+    "id": "18109247574",
+    "moving_time": 661.0,
+    "name": "anstruther \u2192 pittenweem",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-14T19:41:32Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
