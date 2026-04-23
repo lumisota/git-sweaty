@@ -12062,5 +12062,31 @@
     "start_date_local": "2026-04-21T18:19:47Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-22",
+    "distance": 8020.9,
+    "elevation_gain": 141.1,
+    "id": "18216226398",
+    "moving_time": 1918.0,
+    "name": "fife ac midweek series \u2014 st andrews",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-22T19:00:49Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-22",
+    "distance": 1515.7,
+    "elevation_gain": 13.8,
+    "id": "18216235595",
+    "moving_time": 412.0,
+    "name": "craigtoun cooldown",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-22T19:35:50Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
