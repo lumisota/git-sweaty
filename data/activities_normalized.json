@@ -12179,5 +12179,18 @@
     "start_date_local": "2026-04-29T18:23:02Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-02",
+    "distance": 9086.4,
+    "elevation_gain": 225.8,
+    "id": "18344952623",
+    "moving_time": 2580.0,
+    "name": "neilston pad race",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-02T10:04:00Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
