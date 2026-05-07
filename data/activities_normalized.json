@@ -12218,5 +12218,57 @@
     "start_date_local": "2026-05-05T19:20:45Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-06",
+    "distance": 7191.1,
+    "elevation_gain": 118.6,
+    "id": "18403796025",
+    "moving_time": 1701.0,
+    "name": "fife ac midweek series \u2014 strathkinness-blebocraigs",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-06T19:30:30Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-06",
+    "distance": 3028.8,
+    "elevation_gain": 35.4,
+    "id": "18404221132",
+    "moving_time": 822.0,
+    "name": "to anstruther",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-06T18:01:05Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-06",
+    "distance": 2911.6,
+    "elevation_gain": 32.1,
+    "id": "18404224598",
+    "moving_time": 1050.0,
+    "name": "warm-up",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-06T19:00:52Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-06",
+    "distance": 5133.0,
+    "elevation_gain": 22.9,
+    "id": "18404226909",
+    "moving_time": 1451.0,
+    "name": "back to pittenweem",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-06T20:51:29Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
