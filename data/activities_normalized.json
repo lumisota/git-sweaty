@@ -12270,5 +12270,31 @@
     "start_date_local": "2026-05-06T20:51:29Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-08",
+    "distance": 1622.0,
+    "elevation_gain": 14.4,
+    "id": "18428853608",
+    "moving_time": 316.0,
+    "name": "fife ac summer series \u2014 ravenscraig 1 mile",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-08T19:00:06Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-08",
+    "distance": 2406.8,
+    "elevation_gain": 21.2,
+    "id": "18431066835",
+    "moving_time": 710.0,
+    "name": "warm-up",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-08T18:41:16Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
