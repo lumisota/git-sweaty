@@ -12296,5 +12296,18 @@
     "start_date_local": "2026-05-08T18:41:16Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-10",
+    "distance": 21099.8,
+    "elevation_gain": 121.1,
+    "id": "18448976334",
+    "moving_time": 4992.0,
+    "name": "loch leven half marathon",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-10T09:05:16Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
