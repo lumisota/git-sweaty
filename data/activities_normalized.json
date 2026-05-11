@@ -12298,6 +12298,19 @@
     "year": 2026
   },
   {
+    "date": "2026-05-08",
+    "distance": 966.9,
+    "elevation_gain": 16.1,
+    "id": "18456182738",
+    "moving_time": 304.0,
+    "name": "cool-down",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-08T19:13:18Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
     "date": "2026-05-10",
     "distance": 21099.8,
     "elevation_gain": 121.1,
@@ -12307,6 +12320,19 @@
     "raw_activity_type": "Run",
     "raw_type": "Run",
     "start_date_local": "2026-05-10T09:05:16Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-10",
+    "distance": 2336.7,
+    "elevation_gain": 2.0,
+    "id": "18456172208",
+    "moving_time": 874.0,
+    "name": "loch leven warm-up",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-10T08:44:18Z",
     "type": "Run",
     "year": 2026
   }
