@@ -12348,5 +12348,18 @@
     "start_date_local": "2026-05-12T18:57:47Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-13",
+    "distance": 9716.5,
+    "elevation_gain": 29.8,
+    "id": "18495403356",
+    "moving_time": 2179.0,
+    "name": "troon 10K",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-13T19:32:09Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
