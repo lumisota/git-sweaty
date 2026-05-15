@@ -12361,5 +12361,18 @@
     "start_date_local": "2026-05-13T19:32:09Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-14",
+    "distance": 11110.8,
+    "elevation_gain": 39.3,
+    "id": "18507954080",
+    "moving_time": 3779.0,
+    "name": "naac thursday run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-14T18:02:53Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
