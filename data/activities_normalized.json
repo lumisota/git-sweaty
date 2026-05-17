@@ -12400,5 +12400,18 @@
     "start_date_local": "2026-05-16T09:34:34Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-17",
+    "distance": 9964.3,
+    "elevation_gain": 151.5,
+    "id": "18542829548",
+    "moving_time": 2341.0,
+    "name": "gryffe valley 10K",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-17T13:10:00Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
