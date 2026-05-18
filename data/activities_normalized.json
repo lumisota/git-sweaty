@@ -12413,5 +12413,18 @@
     "start_date_local": "2026-05-17T13:10:00Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-17",
+    "distance": 3042.8,
+    "elevation_gain": 0.0,
+    "id": "18545834065",
+    "moving_time": 856.0,
+    "name": "irvine harbourside",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-17T16:28:11Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
