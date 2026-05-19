@@ -12426,5 +12426,18 @@
     "start_date_local": "2026-05-17T16:28:11Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-19",
+    "distance": 11650.9,
+    "elevation_gain": 120.8,
+    "id": "18564450847",
+    "moving_time": 3482.0,
+    "name": "arthur\u2019s seat loop",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-19T07:35:54Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
