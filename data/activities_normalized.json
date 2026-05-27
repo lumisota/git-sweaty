@@ -12478,5 +12478,18 @@
     "start_date_local": "2026-05-23T09:42:05Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-26",
+    "distance": 15109.2,
+    "elevation_gain": 71.1,
+    "id": "18665559821",
+    "moving_time": 4500.0,
+    "name": "allsorts easter grangemuir reps",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-26T18:23:23Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
