@@ -12504,5 +12504,18 @@
     "start_date_local": "2026-05-27T17:53:54Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-30",
+    "distance": 4873.2,
+    "elevation_gain": 44.4,
+    "id": "18711941980",
+    "moving_time": 1078.0,
+    "name": "st andrews parkrun",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-30T09:34:00Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
