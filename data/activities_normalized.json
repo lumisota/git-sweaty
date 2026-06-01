@@ -12543,5 +12543,31 @@
     "start_date_local": "2026-05-31T12:00:16Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-31",
+    "distance": 1521.7,
+    "elevation_gain": 6.4,
+    "id": "18732459672",
+    "moving_time": 470.0,
+    "name": "chariots warm-up",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-31T11:40:53Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-31",
+    "distance": 8022.9,
+    "elevation_gain": 68.9,
+    "id": "18734040072",
+    "moving_time": 2217.0,
+    "name": "to the coop and back again",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-31T18:28:58Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
