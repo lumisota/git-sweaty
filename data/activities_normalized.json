@@ -12582,5 +12582,18 @@
     "start_date_local": "2026-06-02T18:18:19Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-03",
+    "distance": 21277.9,
+    "elevation_gain": 164.8,
+    "id": "18774931733",
+    "moving_time": 6254.0,
+    "name": "haddies blacklaws reps",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-03T18:21:51Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
