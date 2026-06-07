@@ -12608,5 +12608,31 @@
     "start_date_local": "2026-06-06T13:51:32Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-07",
+    "distance": 10003.8,
+    "elevation_gain": 42.7,
+    "id": "18820582011",
+    "moving_time": 2248.0,
+    "name": "roon the toon 10K",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-07T09:58:43Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-07",
+    "distance": 2028.0,
+    "elevation_gain": 8.4,
+    "id": "18822840710",
+    "moving_time": 627.0,
+    "name": "cooldown",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-07T12:39:07Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
