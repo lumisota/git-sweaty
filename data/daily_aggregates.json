@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T16:02:49.393619+00:00",
+  "generated_at": "2026-06-10T16:18:53.728143+00:00",
   "years": {
     "2020": {
       "Ride": {
@@ -8318,6 +8318,15 @@
           "distance": 12031.8,
           "elevation_gain": 51.1,
           "moving_time": 2875.0
+        },
+        "2026-06-09": {
+          "activity_ids": [
+            "18855250424"
+          ],
+          "count": 1,
+          "distance": 14971.1,
+          "elevation_gain": 75.7,
+          "moving_time": 4811.0
         }
       }
     }
