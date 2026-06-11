@@ -12647,5 +12647,18 @@
     "start_date_local": "2026-06-09T18:18:17Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-10",
+    "distance": 8714.1,
+    "elevation_gain": 252.8,
+    "id": "18870321710",
+    "moving_time": 2534.0,
+    "name": "fife ac midweek series #3 \u2014 hill of tarvit",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-10T19:30:24Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
