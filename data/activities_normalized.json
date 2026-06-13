@@ -12660,5 +12660,44 @@
     "start_date_local": "2026-06-10T19:30:24Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-12",
+    "distance": 3237.7,
+    "elevation_gain": 0.0,
+    "id": "18893936354",
+    "moving_time": 705.0,
+    "name": "fife ac summer series #3 \u2014 kirkcaldy prom 2 miles",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-12T19:00:07Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-13",
+    "distance": 10438.3,
+    "elevation_gain": 28.3,
+    "id": "18900175216",
+    "moving_time": 3270.0,
+    "name": "naac pre-parkrun run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-13T08:18:57Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-13",
+    "distance": 5018.4,
+    "elevation_gain": 0.0,
+    "id": "18900207409",
+    "moving_time": 1177.0,
+    "name": "troon parkrun",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-13T09:30:03Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
