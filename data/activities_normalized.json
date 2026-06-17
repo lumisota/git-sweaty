@@ -12712,5 +12712,18 @@
     "start_date_local": "2026-06-14T14:41:20Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-16",
+    "distance": 11030.2,
+    "elevation_gain": 127.3,
+    "id": "18946860204",
+    "moving_time": 2970.0,
+    "name": "lido loop + funchal out-and-back",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-16T17:51:21Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
