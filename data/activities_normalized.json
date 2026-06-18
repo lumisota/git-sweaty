@@ -12725,5 +12725,18 @@
     "start_date_local": "2026-06-16T17:51:21Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-17",
+    "distance": 21247.9,
+    "elevation_gain": 247.8,
+    "id": "18961522669",
+    "moving_time": 6199.0,
+    "name": "c\u00e2mara de lobos \u2192 funchal",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-17T17:11:41Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
