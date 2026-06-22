@@ -12751,5 +12751,18 @@
     "start_date_local": "2026-06-20T19:10:14Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-21",
+    "distance": 16243.5,
+    "elevation_gain": 176.3,
+    "id": "19014584583",
+    "moving_time": 4746.0,
+    "name": "funchal loop",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-21T18:39:51Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
