@@ -12764,5 +12764,18 @@
     "start_date_local": "2026-06-21T18:39:51Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-23",
+    "distance": 10106.4,
+    "elevation_gain": 139.0,
+    "id": "19040775949",
+    "moving_time": 2919.0,
+    "name": "lido out-and-back",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-23T20:41:09Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
