@@ -12790,5 +12790,18 @@
     "start_date_local": "2026-06-24T18:02:51Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-27",
+    "distance": 12492.7,
+    "elevation_gain": 161.7,
+    "id": "19088610056",
+    "moving_time": 3591.0,
+    "name": "to c\u00e2mara de lobos and then back again",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-27T17:09:13Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
