@@ -12803,5 +12803,18 @@
     "start_date_local": "2026-06-27T17:09:13Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-28",
+    "distance": 16171.7,
+    "elevation_gain": 187.5,
+    "id": "19100931937",
+    "moving_time": 4725.0,
+    "name": "to funchal town and back again",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-28T16:00:47Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
