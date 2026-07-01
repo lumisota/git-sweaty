@@ -12816,5 +12816,18 @@
     "start_date_local": "2026-06-28T16:00:47Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-30",
+    "distance": 8905.1,
+    "elevation_gain": 95.9,
+    "id": "19128318602",
+    "moving_time": 2791.0,
+    "name": "allsorts fife coastal path to pittenweem",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-30T18:39:43Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
