@@ -12829,5 +12829,18 @@
     "start_date_local": "2026-06-30T18:39:43Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-01",
+    "distance": 21254.8,
+    "elevation_gain": 11.9,
+    "id": "19142667450",
+    "moving_time": 6150.0,
+    "name": "thames path out-and-back",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-01T19:59:35Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
