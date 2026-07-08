@@ -12881,5 +12881,18 @@
     "start_date_local": "2026-07-05T13:59:32Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-07",
+    "distance": 8191.5,
+    "elevation_gain": 44.9,
+    "id": "19219653981",
+    "moving_time": 2669.0,
+    "name": "allsorts pitmilly loops",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-07T18:31:39Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
