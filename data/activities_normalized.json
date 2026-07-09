@@ -12894,5 +12894,31 @@
     "start_date_local": "2026-07-07T18:31:39Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-08",
+    "distance": 2454.8,
+    "elevation_gain": 27.7,
+    "id": "19234491319",
+    "moving_time": 840.0,
+    "name": "warm-up",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-08T19:09:03Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-08",
+    "distance": 7888.7,
+    "elevation_gain": 153.2,
+    "id": "19234512742",
+    "moving_time": 2008.0,
+    "name": "fife ac midweek series #4 \u2014 beveridge park",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-08T19:30:09Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
