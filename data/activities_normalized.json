@@ -12920,5 +12920,18 @@
     "start_date_local": "2026-07-08T19:30:09Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-09",
+    "distance": 22071.0,
+    "elevation_gain": 133.2,
+    "id": "19247391961",
+    "moving_time": 6648.0,
+    "name": "fife coastal path out-and-back to crail",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-09T18:46:00Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
