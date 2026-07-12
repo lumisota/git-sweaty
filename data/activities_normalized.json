@@ -12946,5 +12946,18 @@
     "start_date_local": "2026-07-11T09:30:33Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-12",
+    "distance": 14787.1,
+    "elevation_gain": 106.8,
+    "id": "19284222904",
+    "moving_time": 4028.0,
+    "name": "to the co-op",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-12T15:46:10Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
