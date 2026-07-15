@@ -12959,5 +12959,18 @@
     "start_date_local": "2026-07-12T15:46:10Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-14",
+    "distance": 8565.6,
+    "elevation_gain": 66.7,
+    "id": "19313546348",
+    "moving_time": 2824.0,
+    "name": "allsorts coastal path to st monans and back",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-14T18:28:35Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
