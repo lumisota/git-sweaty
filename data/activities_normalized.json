@@ -12998,5 +12998,18 @@
     "start_date_local": "2026-07-18T08:35:41Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-19",
+    "distance": 19048.0,
+    "elevation_gain": 73.4,
+    "id": "19380527851",
+    "moving_time": 5068.0,
+    "name": "to ardrossan and back again",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-19T17:21:24Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
