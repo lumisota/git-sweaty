@@ -13011,5 +13011,18 @@
     "start_date_local": "2026-07-19T17:21:24Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-21",
+    "distance": 21453.1,
+    "elevation_gain": 163.5,
+    "id": "19408556450",
+    "moving_time": 6692.0,
+    "name": "to/from elie + allsorts",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-21T17:43:47Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
