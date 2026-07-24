@@ -13024,5 +13024,18 @@
     "start_date_local": "2026-07-21T17:43:47Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-23",
+    "distance": 15035.4,
+    "elevation_gain": 117.7,
+    "id": "19436040414",
+    "moving_time": 4513.0,
+    "name": "kilrenny common loops",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-23T18:04:51Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
