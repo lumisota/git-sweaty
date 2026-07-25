@@ -13037,5 +13037,31 @@
     "start_date_local": "2026-07-23T18:04:51Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-24",
+    "distance": 1610.0,
+    "elevation_gain": 0.0,
+    "id": "19449125801",
+    "moving_time": 305.0,
+    "name": "fife ac summer series #4 \u2014 kirkcaldy prom 1 mile",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-24T19:04:37Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-24",
+    "distance": 1562.8,
+    "elevation_gain": 0.0,
+    "id": "19450822560",
+    "moving_time": 510.0,
+    "name": "cooldown",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-24T19:16:10Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
