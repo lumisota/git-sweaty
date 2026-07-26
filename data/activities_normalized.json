@@ -13063,5 +13063,18 @@
     "start_date_local": "2026-07-24T19:16:10Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-26",
+    "distance": 17945.2,
+    "elevation_gain": 330.8,
+    "id": "19469460842",
+    "moving_time": 5309.0,
+    "name": "scurry to the sea",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-26T09:00:34Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
