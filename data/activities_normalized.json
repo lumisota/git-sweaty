@@ -13076,5 +13076,18 @@
     "start_date_local": "2026-07-26T09:00:34Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-26",
+    "distance": 2541.1,
+    "elevation_gain": 25.7,
+    "id": "19475572001",
+    "moving_time": 728.0,
+    "name": "to not-quite-anstruther and back",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-26T16:51:32Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
