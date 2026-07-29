@@ -13089,5 +13089,18 @@
     "start_date_local": "2026-07-26T16:51:32Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-28",
+    "distance": 21205.9,
+    "elevation_gain": 111.6,
+    "id": "19504930196",
+    "moving_time": 6599.0,
+    "name": "to shell bay + tuesday allsorts",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-28T17:28:54Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
