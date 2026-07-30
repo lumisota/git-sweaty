@@ -13102,5 +13102,18 @@
     "start_date_local": "2026-07-28T17:28:54Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-29",
+    "distance": 16068.4,
+    "elevation_gain": 117.8,
+    "id": "19519272111",
+    "moving_time": 4599.0,
+    "name": "to anstruther and back + haddies kilrenny cycle path reps",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-29T18:19:21Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
