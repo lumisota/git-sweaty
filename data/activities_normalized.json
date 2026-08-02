@@ -13141,5 +13141,18 @@
     "start_date_local": "2026-08-01T11:41:50Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-02",
+    "distance": 5002.3,
+    "elevation_gain": 4.0,
+    "id": "19566010485",
+    "moving_time": 1069.0,
+    "name": "ardeer promrun",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-02T09:29:49Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
