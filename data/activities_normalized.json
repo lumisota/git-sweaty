@@ -13180,5 +13180,18 @@
     "start_date_local": "2026-08-02T15:21:30Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-04",
+    "distance": 15537.9,
+    "elevation_gain": 98.2,
+    "id": "19602850453",
+    "moving_time": 5233.0,
+    "name": "allsorts cambo run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-04T17:43:28Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
