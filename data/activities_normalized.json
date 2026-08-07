@@ -13193,5 +13193,31 @@
     "start_date_local": "2026-08-04T17:43:28Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-05",
+    "distance": 21172.3,
+    "elevation_gain": 132.7,
+    "id": "19617318494",
+    "moving_time": 6566.0,
+    "name": "haddies square-way social run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-05T17:53:11Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-06",
+    "distance": 7942.6,
+    "elevation_gain": 216.9,
+    "id": "19631148702",
+    "moving_time": 2019.0,
+    "name": "fife ac midweek series #5 \u2014 balmullo trail race",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-06T19:00:00Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
