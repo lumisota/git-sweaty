@@ -13219,5 +13219,18 @@
     "start_date_local": "2026-08-06T19:00:00Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-08",
+    "distance": 5007.4,
+    "elevation_gain": 53.5,
+    "id": "19650849621",
+    "moving_time": 1125.0,
+    "name": "riverside park parkrun, glenrothes",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-08T09:32:07Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
