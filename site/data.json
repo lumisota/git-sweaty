@@ -7132,6 +7132,13 @@
       "subtype": "Run",
       "type": "Run",
       "year": 2026
+    },
+    {
+      "date": "2026-08-12",
+      "hour": 17,
+      "subtype": "Run",
+      "type": "Run",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -15811,11 +15818,20 @@
           "distance": 10448.4,
           "elevation_gain": 68.0,
           "moving_time": 2581.0
+        },
+        "2026-08-12": {
+          "activity_ids": [
+            "19715653415"
+          ],
+          "count": 1,
+          "distance": 24080.7,
+          "elevation_gain": 328.9,
+          "moving_time": 7413.0
         }
       }
     }
   },
-  "generated_at": "2026-08-12T15:58:51.057312+00:00",
+  "generated_at": "2026-08-13T15:58:30.432123+00:00",
   "other_bucket": "OtherSports",
   "repo": "lumisota/git-sweaty",
   "source": "strava",

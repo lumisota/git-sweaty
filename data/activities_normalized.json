@@ -13245,5 +13245,18 @@
     "start_date_local": "2026-08-09T20:03:45Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-12",
+    "distance": 24080.7,
+    "elevation_gain": 328.9,
+    "id": "19715653415",
+    "moving_time": 7413.0,
+    "name": "haddies kellie law, partial solar eclipse edition",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-12T17:40:11Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
