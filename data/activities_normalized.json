@@ -13284,5 +13284,31 @@
     "start_date_local": "2026-08-15T09:33:06Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-16",
+    "distance": 10003.8,
+    "elevation_gain": 39.3,
+    "id": "19763303811",
+    "moving_time": 2230.0,
+    "name": "paisley 10K",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-16T09:58:57Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-16",
+    "distance": 2286.5,
+    "elevation_gain": 15.3,
+    "id": "19764466716",
+    "moving_time": 748.0,
+    "name": "paisley 10K warm-up",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-16T09:10:30Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
