@@ -13323,5 +13323,18 @@
     "start_date_local": "2026-08-16T11:58:52Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-18",
+    "distance": 23546.1,
+    "elevation_gain": 258.4,
+    "id": "19799590390",
+    "moving_time": 7471.0,
+    "name": "allsorts kellie law",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-18T17:38:16Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
