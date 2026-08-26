@@ -13388,5 +13388,18 @@
     "start_date_local": "2026-08-22T09:33:31Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-25",
+    "distance": 21227.4,
+    "elevation_gain": 116.7,
+    "id": "19897892383",
+    "moving_time": 6297.0,
+    "name": "allsorts dreelside circuits",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-25T17:41:06Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
