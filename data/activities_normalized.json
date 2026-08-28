@@ -13401,5 +13401,18 @@
     "start_date_local": "2026-08-25T17:41:06Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-26",
+    "distance": 11592.0,
+    "elevation_gain": 77.1,
+    "id": "19913671025",
+    "moving_time": 3124.0,
+    "name": "pittenweem \u2192 anstruther loop",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-26T20:01:47Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
