@@ -13414,5 +13414,44 @@
     "start_date_local": "2026-08-26T20:01:47Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-30",
+    "distance": 21273.3,
+    "elevation_gain": 247.3,
+    "id": "19960971410",
+    "moving_time": 5221.0,
+    "name": "kirkcaldy parks half marathon",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-30T10:00:11Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-30",
+    "distance": 2023.6,
+    "elevation_gain": 27.1,
+    "id": "19964782531",
+    "moving_time": 561.0,
+    "name": "kirkcaldy parks warm-up",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-30T09:34:43Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-30",
+    "distance": 4009.3,
+    "elevation_gain": 25.5,
+    "id": "19966525068",
+    "moving_time": 1152.0,
+    "name": "small anstruther loop",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-30T17:24:30Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
