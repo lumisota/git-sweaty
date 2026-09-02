@@ -13453,5 +13453,18 @@
     "start_date_local": "2026-08-30T17:24:30Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-01",
+    "distance": 22014.2,
+    "elevation_gain": 135.6,
+    "id": "19995791839",
+    "moving_time": 6396.0,
+    "name": "allsorts kilrenny cycle path reps",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-01T17:41:29Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
