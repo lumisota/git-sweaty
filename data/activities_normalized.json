@@ -13466,5 +13466,18 @@
     "start_date_local": "2026-09-01T17:41:29Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-02",
+    "distance": 13011.3,
+    "elevation_gain": 97.5,
+    "id": "20010632766",
+    "moving_time": 3499.0,
+    "name": "out to kilrenny and back",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-02T19:34:14Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
