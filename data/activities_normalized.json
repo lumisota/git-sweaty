@@ -13479,5 +13479,18 @@
     "start_date_local": "2026-09-02T19:34:14Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-06",
+    "distance": 10008.4,
+    "elevation_gain": 24.6,
+    "id": "20060963734",
+    "moving_time": 2294.0,
+    "name": "naac 10K",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-06T11:00:08Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
