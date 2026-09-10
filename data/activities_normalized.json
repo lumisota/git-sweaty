@@ -13505,5 +13505,18 @@
     "start_date_local": "2026-09-08T18:25:36Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-09",
+    "distance": 13650.7,
+    "elevation_gain": 137.6,
+    "id": "20108281018",
+    "moving_time": 3822.0,
+    "name": "haddies fife coastal path to st monans",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-09T18:40:37Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
