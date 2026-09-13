@@ -13518,5 +13518,18 @@
     "start_date_local": "2026-09-09T18:40:37Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-13",
+    "distance": 21287.4,
+    "elevation_gain": 124.3,
+    "id": "20156847734",
+    "moving_time": 5187.0,
+    "name": "great north run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-13T10:56:19Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
