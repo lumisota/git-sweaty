@@ -13531,5 +13531,18 @@
     "start_date_local": "2026-09-13T10:56:19Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-13",
+    "distance": 2016.6,
+    "elevation_gain": 22.0,
+    "id": "20163869309",
+    "moving_time": 647.0,
+    "name": "cooldown",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-13T19:57:03Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
