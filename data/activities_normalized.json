@@ -13557,5 +13557,18 @@
     "start_date_local": "2026-09-15T17:00:24Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-16",
+    "distance": 16621.7,
+    "elevation_gain": 97.1,
+    "id": "20205013837",
+    "moving_time": 5267.0,
+    "name": "haddies east neuk 10K recce",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-16T18:22:51Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
