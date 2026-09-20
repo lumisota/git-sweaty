@@ -13596,5 +13596,18 @@
     "start_date_local": "2026-09-19T09:31:45Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-20",
+    "distance": 9263.0,
+    "elevation_gain": 73.4,
+    "id": "20249807024",
+    "moving_time": 2492.0,
+    "name": "anstruther loop",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-20T07:46:16Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
