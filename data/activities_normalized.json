@@ -13609,5 +13609,18 @@
     "start_date_local": "2026-09-20T07:46:16Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-22",
+    "distance": 21878.7,
+    "elevation_gain": 135.5,
+    "id": "20287646881",
+    "moving_time": 7693.0,
+    "name": "allsorts billowness + bankwell reps",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-22T17:47:47Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
