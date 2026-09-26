@@ -13661,5 +13661,18 @@
     "start_date_local": "2026-09-24T18:37:50Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-26",
+    "distance": 21099.2,
+    "elevation_gain": 63.1,
+    "id": "20333646917",
+    "moving_time": 5012.0,
+    "name": "kelpies half marathon",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-26T08:45:13Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
