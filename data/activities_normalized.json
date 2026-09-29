@@ -13674,5 +13674,18 @@
     "start_date_local": "2026-09-26T08:45:13Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-29",
+    "distance": 21390.3,
+    "elevation_gain": 117.0,
+    "id": "20383505866",
+    "moving_time": 6976.0,
+    "name": "allsorts farm road loops",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-29T17:39:14Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
