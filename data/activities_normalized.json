@@ -13687,5 +13687,18 @@
     "start_date_local": "2026-09-29T17:39:14Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-01",
+    "distance": 7300.0,
+    "elevation_gain": 42.0,
+    "id": "20415615073",
+    "moving_time": 2667.0,
+    "name": "allsorts mars bar route",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-01T18:34:32Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
