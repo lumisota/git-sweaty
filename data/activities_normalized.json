@@ -13700,5 +13700,18 @@
     "start_date_local": "2026-10-01T18:34:32Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-03",
+    "distance": 10787.4,
+    "elevation_gain": 103.7,
+    "id": "20431347023",
+    "moving_time": 3561.0,
+    "name": "craufurdland estate loop",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-03T10:52:42Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
