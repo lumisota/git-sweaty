@@ -13713,5 +13713,18 @@
     "start_date_local": "2026-10-03T10:52:42Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-04",
+    "distance": 21206.1,
+    "elevation_gain": 97.2,
+    "id": "20445277632",
+    "moving_time": 4896.0,
+    "name": "great scottish run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-04T10:14:16Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
