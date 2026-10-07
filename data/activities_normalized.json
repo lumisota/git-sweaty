@@ -13726,5 +13726,31 @@
     "start_date_local": "2026-10-04T10:14:16Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-06",
+    "distance": 21323.0,
+    "elevation_gain": 112.5,
+    "id": "20479989770",
+    "moving_time": 6676.0,
+    "name": "allsorts pickford crescent loops",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-06T17:43:05Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-07",
+    "distance": 9479.9,
+    "elevation_gain": 62.1,
+    "id": "20493195171",
+    "moving_time": 2713.0,
+    "name": "haddies mayview reps",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-07T18:42:29Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
