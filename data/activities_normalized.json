@@ -13752,5 +13752,18 @@
     "start_date_local": "2026-10-07T18:42:29Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-08",
+    "distance": 6790.3,
+    "elevation_gain": 41.0,
+    "id": "20507959217",
+    "moving_time": 2424.0,
+    "name": "allsorts thursday in pittenweem",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-08T18:30:29Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
