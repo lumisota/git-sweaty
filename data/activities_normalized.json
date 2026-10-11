@@ -13765,5 +13765,18 @@
     "start_date_local": "2026-10-08T18:30:29Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-11",
+    "distance": 23046.3,
+    "elevation_gain": 91.9,
+    "id": "20538559675",
+    "moving_time": 6173.0,
+    "name": "kilwinning + three towns loop",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-11T08:57:40Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
