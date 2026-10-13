@@ -13778,5 +13778,18 @@
     "start_date_local": "2026-10-11T08:57:40Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-13",
+    "distance": 21440.1,
+    "elevation_gain": 128.6,
+    "id": "20572866901",
+    "moving_time": 6532.0,
+    "name": "allsorts fire station loops",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-13T17:47:51Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
