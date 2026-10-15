@@ -13791,5 +13791,18 @@
     "start_date_local": "2026-10-13T17:47:51Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-14",
+    "distance": 6576.6,
+    "elevation_gain": 14.3,
+    "id": "20587900905",
+    "moving_time": 1963.0,
+    "name": "haddies windmill road/pickford crescent reps",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-14T18:58:12Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
