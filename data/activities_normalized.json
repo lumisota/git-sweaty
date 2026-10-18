@@ -13817,5 +13817,18 @@
     "start_date_local": "2026-10-17T09:35:49Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-18",
+    "distance": 27135.5,
+    "elevation_gain": 250.5,
+    "id": "20633144204",
+    "moving_time": 8466.0,
+    "name": "out to shell bay and then back again",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-18T09:23:14Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
