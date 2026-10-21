@@ -13830,5 +13830,18 @@
     "start_date_local": "2026-10-18T09:23:14Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-20",
+    "distance": 21301.0,
+    "elevation_gain": 100.3,
+    "id": "20665921206",
+    "moving_time": 6541.0,
+    "name": "allsorts windmill/taeping reps",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-20T17:44:20Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
