@@ -13843,5 +13843,18 @@
     "start_date_local": "2026-10-20T17:44:20Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-21",
+    "distance": 7926.3,
+    "elevation_gain": 126.9,
+    "id": "20680373949",
+    "moving_time": 2344.0,
+    "name": "haddies pittenweem reps",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-21T18:39:21Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
