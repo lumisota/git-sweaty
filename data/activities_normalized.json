@@ -13856,5 +13856,18 @@
     "start_date_local": "2026-10-21T18:39:21Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-22",
+    "distance": 7651.6,
+    "elevation_gain": 34.7,
+    "id": "20692915887",
+    "moving_time": 2639.0,
+    "name": "allsorts elie social",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-22T18:35:25Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
