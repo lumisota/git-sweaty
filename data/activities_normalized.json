@@ -13908,5 +13908,18 @@
     "start_date_local": "2026-10-26T17:52:15Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-27",
+    "distance": 4008.8,
+    "elevation_gain": 22.4,
+    "id": "20755500797",
+    "moving_time": 851.0,
+    "name": "allsorts bertie bassett october edition",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-27T18:51:16Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
