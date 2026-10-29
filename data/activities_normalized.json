@@ -13923,6 +13923,19 @@
     "year": 2026
   },
   {
+    "date": "2026-10-27",
+    "distance": 1137.2,
+    "elevation_gain": 4.4,
+    "id": "20771953865",
+    "moving_time": 446.0,
+    "name": "bertie warmup",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-27T18:40:54Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
     "date": "2026-10-28",
     "distance": 6501.3,
     "elevation_gain": 41.0,
@@ -13932,6 +13945,45 @@
     "raw_activity_type": "Run",
     "raw_type": "Run",
     "start_date_local": "2026-10-28T19:18:24Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-28",
+    "distance": 1213.8,
+    "elevation_gain": 6.5,
+    "id": "20771905647",
+    "moving_time": 438.0,
+    "name": "mars bar cooldown",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-28T19:51:27Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-28",
+    "distance": 2057.2,
+    "elevation_gain": 16.9,
+    "id": "20771907850",
+    "moving_time": 741.0,
+    "name": "mars bar warmup",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-28T18:48:48Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-29",
+    "distance": 21239.8,
+    "elevation_gain": 67.7,
+    "id": "20775500703",
+    "moving_time": 5812.0,
+    "name": "st andrews to guardbridge and then back again",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-29T07:35:01Z",
     "type": "Run",
     "year": 2026
   }
