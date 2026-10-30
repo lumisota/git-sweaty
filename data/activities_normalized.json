@@ -13986,5 +13986,18 @@
     "start_date_local": "2026-10-29T07:35:01Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-29",
+    "distance": 5809.6,
+    "elevation_gain": 50.0,
+    "id": "20784225306",
+    "moving_time": 1981.0,
+    "name": "allsorts crail social",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-29T18:42:06Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
