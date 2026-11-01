@@ -13999,5 +13999,18 @@
     "start_date_local": "2026-10-29T18:42:06Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-01",
+    "distance": 6818.4,
+    "elevation_gain": 51.9,
+    "id": "20814007043",
+    "moving_time": 1885.0,
+    "name": "kilwinning",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-01T09:21:27Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
