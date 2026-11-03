@@ -14012,5 +14012,18 @@
     "start_date_local": "2026-11-01T09:21:27Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-03",
+    "distance": 23247.5,
+    "elevation_gain": 151.2,
+    "id": "20848029259",
+    "moving_time": 6913.0,
+    "name": "allsorts mayview pyramid",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-03T17:27:45Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
