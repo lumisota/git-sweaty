@@ -14025,5 +14025,18 @@
     "start_date_local": "2026-11-03T17:27:45Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-04",
+    "distance": 10963.7,
+    "elevation_gain": 46.4,
+    "id": "20861293469",
+    "moving_time": 3209.0,
+    "name": "haddies elie loops",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-04T18:40:29Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
