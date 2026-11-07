@@ -14038,5 +14038,18 @@
     "start_date_local": "2026-11-04T18:40:29Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-07",
+    "distance": 4950.5,
+    "elevation_gain": 43.0,
+    "id": "20892106051",
+    "moving_time": 1102.0,
+    "name": "auldcathie district parkrun",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-07T09:31:25Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
