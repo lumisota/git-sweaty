@@ -14051,5 +14051,31 @@
     "start_date_local": "2026-11-07T09:31:25Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-08",
+    "distance": 9959.2,
+    "elevation_gain": 84.2,
+    "id": "20907990260",
+    "moving_time": 2270.0,
+    "name": "jimmy irvine bella 10K",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-08T11:56:09Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-08",
+    "distance": 11039.4,
+    "elevation_gain": 95.5,
+    "id": "20912060975",
+    "moving_time": 2996.0,
+    "name": "kilwinning/stevenston loop",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-08T16:34:02Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
