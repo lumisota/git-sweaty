@@ -14077,5 +14077,18 @@
     "start_date_local": "2026-11-08T16:34:02Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-10",
+    "distance": 21485.3,
+    "elevation_gain": 170.4,
+    "id": "20938547757",
+    "moving_time": 6890.0,
+    "name": "allsorts cellardyke town hall loops",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-10T17:40:33Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
