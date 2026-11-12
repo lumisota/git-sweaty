@@ -14090,5 +14090,18 @@
     "start_date_local": "2026-11-10T17:40:33Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-11",
+    "distance": 6690.8,
+    "elevation_gain": 55.9,
+    "id": "20953252311",
+    "moving_time": 1795.0,
+    "name": "haddies burnside terrace reps",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-11T18:51:57Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
