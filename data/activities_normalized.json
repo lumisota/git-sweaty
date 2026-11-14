@@ -14116,5 +14116,18 @@
     "start_date_local": "2026-11-12T18:35:50Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-14",
+    "distance": 8957.0,
+    "elevation_gain": 75.9,
+    "id": "20980358468",
+    "moving_time": 2532.0,
+    "name": "loop out to anstruther",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-14T07:48:05Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
