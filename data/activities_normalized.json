@@ -14142,5 +14142,31 @@
     "start_date_local": "2026-11-15T14:51:55Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-17",
+    "distance": 5477.4,
+    "elevation_gain": 44.9,
+    "id": "21027778491",
+    "moving_time": 1641.0,
+    "name": "allsorts bankwell road/shore road reps",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-17T18:54:31Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-18",
+    "distance": 21259.1,
+    "elevation_gain": 143.2,
+    "id": "21039011686",
+    "moving_time": 6199.0,
+    "name": "haddies mars bar chain run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-18T17:40:08Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
